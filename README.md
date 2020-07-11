@@ -1,4 +1,4 @@
-# Welcome to SiteDownloader 👋
+# Welcome to RaidBot 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg)
 ![Prerequisite](https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg)
